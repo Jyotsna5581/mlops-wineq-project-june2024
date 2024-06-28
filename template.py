@@ -21,7 +21,6 @@ files = [
     os.path.join("src", "__init__.py")
 ]
 
-
 for file_ in files :
     with open(file_, "w") as f :
         pass
